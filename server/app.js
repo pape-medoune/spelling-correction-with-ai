@@ -4,7 +4,7 @@ const axios = require("axios");
 
 const app = express();
 const PORT = 4000;
-const apiKey = "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";
+const apiKey = "";
 
 app.use(cors());
 app.use(express.json());
